@@ -1,0 +1,107 @@
+ area list(anatomy toolbox: AllAreas_v15_MPM.mat)
+
+ -1: left, 1: right
+ 1, Hipp. (CA)
+ 2, OP 1
+ 3, Area 45
+ 4, hIP2
+ 5, Amyg. (CM)
+ 6, Area 4a
+ 7, TE 1.0
+ 8, Hipp. (EC)
+ 9, Area 3b
+ 10,Area 17
+ 11,Amyg. (SF)
+ 12,OP 3
+ 13,Area 44
+ 14,hOC5 (V5/MT+)
+ 15,Hipp. (FD)
+ 16,Area 4p
+ 17,Area 1
+ 18,hIP1
+ 19,Area 18
+ 20,TE 1.1
+ 21,Hipp. (HATA)
+ 22,OP 2
+ 23,Area 6
+ 24,Amyg. (LB)
+ 25,Area 3a
+ 26,Area 2
+ 27,TE 1.2
+ 28,OP 4
+ 29,Hipp. (SUB)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ area list (version 17)
+ -1: left, 1: right
+ 1 Hipp (EC) 
+ 2 Area 2  
+ 3 Amyg (CM)                   
+ 4 Hipp (HATA)                 
+ 5 hOC5 (V5)                   
+ 6 IPC (PGa)                   
+ 7 IPC (PF)                    
+ 8 OP 1                        
+ 9 Lobule VIIb (Vermis)        
+ 10 Area 1                      
+ 11 hIP3                        
+ 12 SPL (7P)                    
+ 13 IPC (PFop)                  
+ 14 TE 1.2                      
+ 15 IPC (PFm)                   
+ 16 Hipp (CA)                   
+ 17 Lobule VIIIa (Vermis)       
+ 18 Lobule IX (Hem)             
+ 19 Lobule IX (Vermis)          
+ 20 Area 18                     
+ 21 Lobule VIIIb (Hem)          
+ 22 OP 3                        
+ 23 OP 4                        
+ 24 Lobule X (Vermis)           
+ 25 Lobule VIIb (Hem)           
+ 26 hOC3v (V3v)                 
+ 27 Lobule VIIa Crus I (Hem)    
+ 28 IPC (PFcm)                  
+ 29 Area 4a                     
+ 30 SPL (7A)                    
+ 31 SPL (5Ci)                   
+ 32 Lobule VIIa Crus II (Hem)   
+ 33 OP 2                        
+ 34 IPC (PFt)                   
+ 35 Lobule VIIIb (Vermis)       
+ 36 TE 1.0                      
+ 37 Area 4p                     
+ 38 Hipp (SUB)                  
+ 39 Area 44                     
+ 40 Lobules I-IV (Hem)          
+ 41 Area 3a                     
+ 42 hOC4v (V4)                  
+ 43 Amyg (LB)                   
+ 44 Lobule VI (Hem)             
+ 45 Area 3b                     
+ 46 Lobule X (Hem)              
+ 47 Lobule VIIa Crus II (Vermis)
+ 48 SPL (5M)                    
+ 49 SPL (5L)                    
+ 50 Amyg (SF)                   
+ 51 Insula (Ig1)                
+ 52 Lobule VIIa Crus I (Vermis) 
+ 53 Insula (Ig2)                
+ 54 IPC (PGp)                   
+ 55 Lobule V                    
+ 56 SPL (7M)                    
+ 57 Lobule VIIIa (Hem)          
+ 58 Area 6                      
+ 59 hIP1                        
+ 60 Insula (Id1)                
+ 61 Hipp (FD)                   
+ 62 SPL (7PC)                   
+ 63 TE 1.1                      
+ 64 hIP2                        
+ 65 Area 17                     
+ 66 Lobule VI (Vermis)          
+ 67 Area 45
