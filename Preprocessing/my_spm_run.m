@@ -232,7 +232,7 @@ for methodn = 1:length(MY_VAR.SPM_method)
                 dirn_sess = fullfile(MY_VAR.analyze_dir, MY_VAR.subnames{sub},int2str(MY_VAR.sessions{sub}(sess))); % modified on 2010/June/07
             end
             
-            [P,dirs]=spm_select('List',dirn_sess,'^*\.txt$');
+            [P,dirs]=spm_select('List',dirn_sess,'^rp_.*\.txt$');
             head_data=fullfile(dirn_sess,P);  
             
             % get multiple_design
