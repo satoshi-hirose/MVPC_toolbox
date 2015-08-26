@@ -27,26 +27,29 @@ if nargin < 4
  
     hdr.dim = [64 64 30];
     hdr.mat = zeros(4,4);
-    hdr.dt = [16 0];
-    hdr.pinfo = [1 0 0]';
+    hdr.dt = [64 0];
     hdr.n = [1 1];
 
 else
     % loading template img-file 
-    hdr = spm_vol(tmpfile); 
+    hdr_tmp = spm_vol(tmpfile); 
+    hdr.mat = hdr_tmp.mat;
+    hdr.dim = hdr_tmp.dim;
+    
 end
+
+hdr.descrip = memo;
+hdr.fname = savefname;
+hdr.dt = [64 0];
 
 x = x(:);
 
 % assign values 
-img = NaN(hdr.dim);
+img = zeros(hdr.dim);
 for i = 1:size(x,1);
   img(vx(1,i),vx(2,i),vx(3,i))= x(i);
 end
 
-hdr.descrip = memo;
-hdr.private.descrip = ''; 
-hdr.fname = savefname;
 
 disp(['Save: ',savefname])
 
