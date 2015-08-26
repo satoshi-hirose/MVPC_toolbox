@@ -37,7 +37,7 @@ for sub = 1:length(MY_VAR.subnames)
     
     %% ROI definition loop
     for num_roi = 1:length(MY_VAR.temporal_ROIs)
-
+ clear label_all tempo_ROI %2015/08/26 SH added
         %% session loop
         for sess = 1:length(MY_VAR.psych_results{sub})
             
