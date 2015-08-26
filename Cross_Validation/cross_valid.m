@@ -60,6 +60,7 @@ for sub = 1:length(MY_VAR.subnames)
     %% Spatial ROI loop
     for spe = 1:size(ROIs_spatial,1)
         
+        clear assigned_data
         % load spatial ROI file
         spROI = deblank(ROIs_spatial(spe,:));
         load(spROI)
